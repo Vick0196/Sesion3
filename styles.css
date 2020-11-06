@@ -1,5 +1,29 @@
-.container-headercl{
-    height: 100%;
-    width: 200px;
+
+.container-header{
+    height: 50px;
+    width: 100%;
     background-color: aquamarine;
 }
+.promo h3 {
+    font-family: "Alegreya", serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+  }
+  
+  .promo > p {
+    font-size: 16px;
+    color: #343434;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .promo > form {
+    display: flex;
+  }
+  
+  .promo > form p {
+    color: #025157;
+    margin-right: 18px;
+    
+  }
