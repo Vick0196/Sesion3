@@ -24,6 +24,31 @@
   
   .promo > form p {
     color: #025157;
-    margin-right: 18px;
+    margin-right: 13px;
+    margin-top: 10px;
     
+    
+  }
+
+  .promo >form button{
+    color: #fff;
+    background-color: #67b54b;
+    border: 0;
+    padding: 10px 24px;
+    border-radius: 5px;
+  }
+
+  .promo >form input{
+    padding: 8px 26px;
+    
+  }
+  .explanatory-video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .explanatory-video img {
+    width: 120px;
+    margin-top: 10px;
   }
